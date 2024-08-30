@@ -7,20 +7,20 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Jake's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Jake Inthavongsa Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://JakeInthavongsa.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
+  title: "Jake Inthavongsa",
+  logo_name: "JakeInthavongsa",
   nickname: "layman_brother",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
@@ -34,8 +34,8 @@ const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/ashutosh1919",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // gmail: "JakeInthavongsa98@gmail.com",
+  // gitlab: "https://gitlab.com/JakeInthavongsa98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
@@ -60,7 +60,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:JakeInthavongsa98@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -734,7 +734,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://blogs.JakeInthavongsa.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
